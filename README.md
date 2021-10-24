@@ -3,20 +3,20 @@
 </h3> 
                     
 <h1 align="left">Hi 👋, I'm Gonzalo</h1>
-<h3 align="left">A passionate Full Stack developer from Argentina-Mendoza🍇</h3>
+<h3 align="left">A passionate Full Stack developer from Mendoza - Argentina🍇</h3>
 
 
  
 <img align="right" src="https://user-images.githubusercontent.com/80013333/138579735-90f0660a-bbc7-4900-b375-d3ec6e53d90e.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡ A Few Quick Facts:</h2>
  <ul>
-<li>🔭 I’m currently working on Barbanegra E-Comerce</li>
-<li>🌱 I’m currently learning Javascript, Node, React</li>
-<li>💬 Ask me about TaildWind🍃 , Javascript</li>
-<li>⚡ Fun fact: Big Fan to New-Wave 🎵 and Linux SO 🐧</li>
-<li>💬 ask me about anything, i am happy to help;</li>
-<li>💼 any freelance work? do reach, below are my networks</li>
+<li>🔭 I’m currently working on Barbanegra E-Commerce.</li>
+<li>🌱 I’m Learning Javascript, Node and React.</li>
+<li>💬 Ask me about TaildWind🍃, Javascript...</li>
+<li>⚡ Fun fact: Big fan of New Wave 🎵 and Linux SO </li>
+<li>💬 Ask me about anything, I'll be happy to help.</li>
+<li>💼 Any freelance work? Contact me! My social networks are below:</li>
  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
