@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina-Mendoza🍇
  
-    ![image](https://i.giphy.com/l3vRmVv5P01I5NDAA.gif)
-  
-        
+![l3vRmVv5P01I5NDAA](https://user-images.githubusercontent.com/80013333/138579735-90f0660a-bbc7-4900-b375-d3ec6e53d90e.gif)
+
             
 - 🔭 I’m currently working on [BarbaNegra e-comerce](https://github.com/victoriadaluz/grupo_3_barbanegra)
 
