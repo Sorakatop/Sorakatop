@@ -11,9 +11,9 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
  <ul>
-<li>🔭 I’m currently working on **Barbanegra E-Comerce**</li>
-<li>🌱 I’m currently learning **Javascript, Node, React**</li>
-<li>💬 Ask me about **TaildWind🍃 , Javascript**</li>
+<li>🔭 I’m currently working on Barbanegra E-Comerce</li>
+<li>🌱 I’m currently learning Javascript, Node, React</li>
+<li>💬 Ask me about TaildWind🍃 , Javascript</li>
 <li>⚡ Fun fact: Big Fan to New-Wave 🎵 and Linux SO 🐧</li>
 <li>💬 ask me about anything, i am happy to help;</li>
 <li>💼 any freelance work? do reach, below are my networks</li>
