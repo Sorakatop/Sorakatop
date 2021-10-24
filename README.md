@@ -3,19 +3,19 @@
  
 ![l3vRmVv5P01I5NDAA](https://user-images.githubusercontent.com/80013333/138579735-90f0660a-bbc7-4900-b375-d3ec6e53d90e.gif)
 
-            
-- 🔭 I’m currently working on [BarbaNegra e-comerce](https://github.com/victoriadaluz/grupo_3_barbanegra)
+  
+- 🔭 I’m  working on [BarbaNegra e-comerce](https://github.com/victoriadaluz/grupo_3_barbanegra)
 
-- 🌱 I’m currently learning **NodeJS, Javascript, React./Native, Html, css and TaildWind🍃**
+- 🌱 I’m  learning **NodeJS, Javascript, React./Native, Html, css and TaildWind🍃**
 
-- 👯 I’m looking to collaborate on [BarbaNegra e-comerce](https://github.com/victoriadaluz/grupo_3_barbanegra)
+- 👯 I’m  collaborate on [BarbaNegra e-comerce](https://github.com/victoriadaluz/grupo_3_barbanegra)
 
 - 👨‍💻 All of my projects are available at [404](404)
 
 - 💬 Ask me about **Javascript, Taildwind🍃**
 
 - 📫 How to reach me **alcocergonzalomatias@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sorakatop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sorakatop" height="30" width="40" /></a>
