@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/sorakatop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sorakatop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alcocergonzalomatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alcocergonzalomatias" height="30" width="40" /></a>
-<a href="https://instagram.com/gonzalcocer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gonzalcocer" height="30" width="40" /></a>
 <a href="https://discord.gg/GGonza#4211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GGonza#4211" height="30" width="40" /></a>
 </p>
 
