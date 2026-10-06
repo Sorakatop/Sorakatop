@@ -1,5 +1,3 @@
-<a href="https://gonzaloalcocer.com"><img src="https://gonzaloalcocer.com/img/og.jpg" alt="Gonzalo Alcocer · Salesforce Developer, AI & Integrations · gonzaloalcocer.com" width="100%"></a>
-
 <p align="center">
   <b>Salesforce Engineer · Integration Developer · AI agents</b> — Argentina (remote)
 </p>
